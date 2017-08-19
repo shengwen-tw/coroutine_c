@@ -42,7 +42,7 @@ void routine2(void)
 	cr_end();
 }
 
-void main(void)
+int main(void)
 {
 	while(1) {
 		routine1();
